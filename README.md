@@ -1,7 +1,7 @@
 # EmployeeManagerWebApp
 Employee manager web app that allows users to add/delete/edit/search employees.
 
-Screenshots of application:
+Screenshots of the application:
 
 ![image](https://user-images.githubusercontent.com/88007715/194979975-7b6738ba-be39-4ee1-b511-dc19e34decc1.png)
 
